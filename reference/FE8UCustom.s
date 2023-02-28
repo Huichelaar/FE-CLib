@@ -3090,6 +3090,8 @@ SET_DATA gpStatScreenMoveUnit, 0x2003C0C
 SET_DATA gpCurrentHelpTextStruct, 0x2003C10
 SET_DATA gpStatScreenPageBg0Map, 0x2003D2C
 SET_DATA gAISOAM_20041C8, 0x20041C8
+SET_DATA gpStatScreenPageBg0Map, 0x2003D2C
+SET_DATA gpStatScreenPageBg1Map, 0x200422C
 SET_DATA gpStatScreenPageBg2Map, 0x200472C
 SET_DATA gSortedUnitList, 0x200D6E0
 SET_DATA gStringBufferAlt, 0x200F17C
